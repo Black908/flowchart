@@ -1,2 +1,2 @@
 # Flowchart
- Flowchat(순서도) 입문기
+ Flowchart(순서도) 입문기
